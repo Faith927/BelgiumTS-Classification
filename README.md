@@ -5,7 +5,7 @@ Assignment 2: Machine Learning Project
 Faith Ha & Chau Le
 
 ## Introduction
-Dataset contains 27x27 RGB images of traffic signs taken from the Belgium Traffic Sign Dataset. The goal is to classify traffic signs by shape and type, by building a CNN with keras model and trained it with the BelgiumTS dataset. To test the model the european traffic sign dataset was used.
+Dataset contains 27x27 RGB images of traffic signs taken from the Belgium Traffic Sign Dataset. The goal is to classify traffic signs by shape and type, by building a CNN with keras model and trained it with the BelgiumTS dataset. The model achieved a weighted f-1 score of 89% for shape and 66% for type. To test the model the european traffic sign dataset was used.
 
 ## Test Dataset Source
 https://drive.google.com/drive/folders/1AcY281vmGFL5HdL5F-NHA3N5CsM16NZa?usp=sharing
